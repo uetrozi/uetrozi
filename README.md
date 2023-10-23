@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Charlotte and I am an aspiring Full Stack Web Developer. I was previously working as a Media Educator at a school where I was constantly asked to fix and schools homepage. Since I was not getting paid for that and also lacking a few skills I decided to change both things by learning to code.
+I'm Charlotte and I am an aspiring Full Stack Web Developer. Working as a Media Educator I was constantly asked to fix homepages. Lacking a few skills for that and also not getting paid for it I decided to change both things by learning to code.
 
 ![typing](https://media.tenor.com/k4CNdciy3f4AAAAC/typing-working.gif)
 
@@ -19,7 +19,10 @@ I grew up near the Baltic Sea and settled in Berlin 9 years ago, of course close
 - Element: 🌊
 - Food: 🍱
 - Plant: 🪻
+- Game: 👾
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <!--
