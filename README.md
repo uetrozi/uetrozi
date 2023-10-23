@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Charlotte and I am an aspiring Full Stack Web Developer. I was previously working as a Media Educator at a school where I was constantly asked to fix and update the schools homepage. Since I was not getting paid for that and also lacking a few skills I decided to change both things by learning to code.
 
@@ -12,6 +12,19 @@ I grew up near the Baltic Sea and settled in Berlin 3 years ago, of course close
 
 ![stralau](https://upload.wikimedia.org/wikipedia/commons/3/38/Berlin_Stralau_UAV_04-2017.jpg)
 Von A.Savin - Eigenes Werk, FAL, https://commons.wikimedia.org/w/index.php?curid=58430849
+
+## My Favourites
+
+- Animal: 🐻
+- Drink: 🚰
+- Sport: 🏉
+- Country: 🇿🇦
+- Pasttime: 🎤🎶
+- Element: 🌊
+- Food: 🍱
+- Plant: 🪻
+
+
 
 <!--
 **uetrozi/uetrozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
