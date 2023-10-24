@@ -11,22 +11,21 @@ I grew up near the Baltic Sea and settled in Berlin 9 years ago, of course close
 ![sandcastle](https://media.tenor.com/N6gzet4wiAsAAAAd/stitch-build.gif)
 
 
-## My Favourites
-
-- Animal: 🐻
-- Drink: 🚰
-- Sport: 🏉
-- Country: 🇿🇦
-- Pasttime: 🎤🎶
-- Element: 🌊
-- Food: 🍱
-- Plant: 🪻
-- Game: 👾
+| My Favourite |  |
+| ----------- | ----------- |
+| Animal | 🐻 |
+| Drink | 🚰 |
+| Sport | 🏉 |
+| Country | 🇿🇦 |
+| Pasttime | 🎤🎶 |
+| Element | 🌊 |
+| Food | 🍱 |
+| Plant | 🪻 |
+| Game | 👾 |
 
 ## While you are here, enjoy a rondom joke
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-##  
 
