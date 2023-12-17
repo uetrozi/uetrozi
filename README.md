@@ -1,6 +1,8 @@
 # Hello World! 👋
 
-I'm Charlotte and I am a Full Stack Web Developer. As a former Media Educator I was asked to fix homepages a lot. But I did and I liked it. So thats what I do now.
+I'm Charlotte and I am a Full Stack Web Developer. As a former Media Educator I was asked to fix homepages a lot. But I did and I liked it and I was good at it. 
+
+So thats what I do now.
 
 ![typing](https://media.tenor.com/k4CNdciy3f4AAAAC/typing-working.gif)
 
