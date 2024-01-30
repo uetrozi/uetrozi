@@ -18,7 +18,6 @@ I grew up near the Baltic Sea and settled in Berlin 9 years ago.
 
 In my free time I like to go climbing, riding the bike or going on adventures with my daughter.
 
-Get in contact with me over LinkedIn and if you think about hiring me: 
-Do it! I promise: It will be a very good decision. 😉
+Get in contact with me over LinkedIn.
 
 
