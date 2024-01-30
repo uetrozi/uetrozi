@@ -3,11 +3,9 @@
 I'm Charlotte and I am a Full Stack Web Developer. Check out my projects here:
 
 
-About me:
-
 [![TaskTango](https://github.com/uetrozi/uetrozi/assets/139115048/3b26e730-3468-439d-898e-8c619da2211d)](https://tasktango.vercel.app/)
 
-
+About me:
 
 As a former Media Educator I was asked to fix homepages a lot. 
 
