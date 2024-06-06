@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Charlotte and I am a Full Stack Web Developer. Check out my projects here:
+I'm Charlotte and I am a Web Developer. Check out my projects here:
 
 
 [![TaskTango](https://github.com/uetrozi/uetrozi/assets/139115048/3b26e730-3468-439d-898e-8c619da2211d)](https://tasktango.vercel.app/)
