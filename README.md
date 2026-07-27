@@ -17,5 +17,3 @@ My Projects:
 
 [![TaskTango](https://github.com/uetrozi/uetrozi/assets/139115048/3b26e730-3468-439d-898e-8c619da2211d)](https://todo-kappa-jade.vercel.app/)
 
-[![WanderWays Device Mockup](https://github.com/uetrozi/charlotte-konrad-tourio-app/assets/139115048/dd158a68-5a8c-4cfb-bd4b-e0f922c43ab6)](https://charlotte-konrad-tourio-app.vercel.app/)
-
